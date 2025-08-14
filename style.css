@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#home{
+    min-height: 100vh;
+    background-color: aquamarine;
+    padding-top: 100px;
+}
+.page{
+    font-size: 60px;
+    font-weight: 800;
+    text-align: center;
+    letter-spacing: 6px;
+}
+ul.list-items{
+    list-style: none;
+    margin-top: 45px;
+    justify-items: center;
+}
+.list-items li{
+    
+    font-size: 18px;
+    padding: 6px 6px;
+    width: 300px;
+    height: 35px;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 22px;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 25px;
+    
+    
+    
+    
+}
+.list-items li a{
+     text-transform: uppercase;
+     text-decoration: none;
+     color:crimson;
+     
+     
+}
