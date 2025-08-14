@@ -32,15 +32,14 @@ ul.list-items{
     text-align: center;
     background-color: yellow;
     border-radius: 25px;
-    
-    
-    
-    
 }
 .list-items li a{
      text-transform: uppercase;
      text-decoration: none;
-     color:crimson;
-     
-     
+     color:crimson;   
+}
+#sub-content{
+    width: 400px;
+    height: 400px;
+    background-color:red;
 }
